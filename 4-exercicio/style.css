@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+h2 {
+    margin: 10px;
+    padding: 10px;
+}
+
+table {
+    margin: 15px;
+    padding: 5px;
+}
+
+th {
+    text-align: center;
+    margin: 15px;
+    color: white
+}
+
+td {
+    text-align: left;
+    margin: 10px;
+    color: white
+}
+
+.cabecalho-moda {
+background-color: #BB86FC;
+}
+
+.cabecalho-casa {
+background-color: #00C4B4 ;
+}
+
+.produtos {
+background-color: #424250;
+}
